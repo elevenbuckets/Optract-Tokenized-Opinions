@@ -2,7 +2,7 @@
 - Optract is peer-to-peer soapbox that promotes free speech.
 - Optract is online publishing gamified with token economics.
 - Optract is collective works of valuable contents and insights.
-- Optract is the start of broader ecosystem 
+- Optract is the start of broader ecosystem for dApps. 
 
 ## Topics of Optract related promotional articles
 #### 01. Web3 Can't Reshape The Internet Itself... But To Reshape People's Relationship With It.
@@ -15,6 +15,7 @@
 #### 08. Fintech or non-Fintech, That Is A Blockchain Question.
 #### 09. The Issue With Trust... And The Issue Without It.
 #### 10. Optract: A Seed of New Hopes.
+#### 11. Why Does Optract Have / Need It's Own Token?
 
 
 ## Purpose of this repo
