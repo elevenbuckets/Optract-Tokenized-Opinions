@@ -9,7 +9,7 @@
 ### 2. The Boundary of Freedom Regarding Censorship Resistance
 ### 3. Blockchain: The Hopes and Fears of Decentralization
 ### 4. Decentralized Application: A Reality Check
-### 5. Blockchain governance: Direct versus Liquid Democracy. 
+### 5. Blockchain Governance: Direct Versus Liquid Democracy. 
 
 ### Purpose of this repo
 1. Wiki for brainstorming ideas & design
