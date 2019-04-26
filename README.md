@@ -1,6 +1,6 @@
-# Optract-Tokenized-Opinions
-- Optract is peer-to-peer soapbox that promotes free speach.
-- Optract is online publishing gamified by token economics.
+# Optract: Tokenized Opinions
+- Optract is peer-to-peer soapbox that promotes free speech.
+- Optract is online publishing gamified with token economics.
 - Optract is collective works of valuable contents and insights.
 - Optract is the start of broader ecosystem 
 
@@ -10,6 +10,7 @@
 #### 3. Blockchain: The Hopes and Fears of Decentralization
 #### 4. Decentralized Application: A Reality Check
 #### 5. Blockchain Governance: Direct Versus Liquid Democracy. 
+#### 6. Reputation Management Versus Free Speech: An Obvious Use Case of Web3
 
 
 ## Purpose of this repo
