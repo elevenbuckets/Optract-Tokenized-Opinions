@@ -17,7 +17,7 @@
 #### 10. Optract: A Seed of New Hopes.
 #### 11. Why Does Optract Have / Need It's Own Token?
 #### 12. A Quick Look of Optract's dApp Ecosystem.
-#### 13. The World needs no more social networks... we just need to make online social activities more valuable. 
+#### 13. The world doesn't need more social networks... we just need to make online social activities more valuable. 
 
 
 ## Purpose of this repo
