@@ -19,6 +19,10 @@
 #### 12. A Quick Look of Optract's dApp Ecosystem.
 #### 13. The world doesn't need more social networks... we just need more meaningful online social activities
 
+## Review-Style Opinion Topics
+#### 01. Why you should think twice shopping from Amazon
+#### 02. Why your smart devices aren't really smart
+#### 03. Has IoT (Internet of Things) failed?
 
 ## Purpose of this repo
 1. Wiki for brainstorming ideas & design
