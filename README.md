@@ -4,6 +4,7 @@
 - Optract is collective works of valuable contents and insights.
 - Optract is the start of broader ecosystem for dApps. 
 
+
 ## Topics of Optract related promotional articles
 #### 01. Web3 Can't Reshape The Internet Itself... But To Reshape People's Relationship With It.
 #### 02. The Boundary of Freedom Regarding Censorship Resistance.
@@ -19,10 +20,12 @@
 #### 12. A Quick Look of Optract's dApp Ecosystem.
 #### 13. The world doesn't need more social networks... we just need more meaningful online social activities
 
+
 ## Review-Style Opinion Topics
 #### 01. Why you should think twice shopping from Amazon
 #### 02. Why your smart devices aren't really smart
 #### 03. Has IoT (Internet of Things) failed?
+
 
 ## Purpose of this repo
 1. Wiki for brainstorming ideas & design
