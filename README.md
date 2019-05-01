@@ -23,7 +23,7 @@
 
 ## Review-Style Opinion Topics
 #### 01. Why you should think twice shopping from Amazon
-#### 02. Why your smart devices aren't really smart
+#### 02. Why your smart devices aren't really that smart
 #### 03. Has IoT (Internet of Things) failed?
 
 
